@@ -1,0 +1,20 @@
+{
+  "name": "30-days-dsa-system-design",
+  "version": "1.0.0",
+  "description": "30 days DSA and System design practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dsa",
+    "system",
+    "design",
+    "typescript"
+  ],
+  "author": "Samuel Abel",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
